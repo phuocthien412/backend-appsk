@@ -1,0 +1,698 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\controllers\\api\\bmicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\controllers\\api\\bmicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\controllers\\api\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\controllers\\api\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\controllers\\api\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\controllers\\api\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\entity\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\entity\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\migrations\\20250103150639_capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\migrations\\20250103150639_capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\repository\\healthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\repository\\healthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\service\\bmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\service\\bmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\models\\insertbmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\models\\insertbmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\controllers\\api\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\controllers\\api\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\repository\\bmirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\repository\\bmirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\entity\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\entity\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\authenticate\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\authenticate\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\bmi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\bmi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\models\\updaterecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\models\\updaterecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\models\\insertrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\models\\insertrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\models\\updatebmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\models\\updatebmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\migrations\\20250104134011_ctt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\migrations\\20250104134011_ctt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\libs\\migrations\\20241220062147_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10976F-B3C9-418B-BDD5-2C68515F049F}|Libs\\Libs.csproj|solutionrelative:libs\\migrations\\20241220062147_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|c:\\users\\sosfe\\downloads\\21dthc1demoapi - copy\\21dthc1demoapi\\21dthc1demoapi\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{072B26E1-23C9-4A4E-841C-3B0CB6FEAB32}|21dthc1DemoAPI\\21dthc1DemoAPI.csproj|solutionrelative:21dthc1demoapi\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\RegisterController.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Controllers\\api\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\RegisterController.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Controllers\\api\\RegisterController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:28:32.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Authenticate\\Register.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\Authenticate\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Authenticate\\Register.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\Authenticate\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:19:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsertBMIModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\InsertBMIModel.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Models\\InsertBMIModel.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\InsertBMIModel.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Models\\InsertBMIModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:03:40.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250103150639_capnhat.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\20250103150639_capnhat.cs",
+              "RelativeDocumentMoniker": "Libs\\Migrations\\20250103150639_capnhat.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\20250103150639_capnhat.cs",
+              "RelativeToolTip": "Libs\\Migrations\\20250103150639_capnhat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:06:39.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Service\\HealthRecordService.cs",
+              "RelativeDocumentMoniker": "Libs\\Service\\HealthRecordService.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Service\\HealthRecordService.cs",
+              "RelativeToolTip": "Libs\\Service\\HealthRecordService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:45:48.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BMIService.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Service\\BMIService.cs",
+              "RelativeDocumentMoniker": "Libs\\Service\\BMIService.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Service\\BMIService.cs",
+              "RelativeToolTip": "Libs\\Service\\BMIService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:13:59.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMIController.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\BMIController.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Controllers\\api\\BMIController.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\BMIController.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Controllers\\api\\BMIController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:04:55.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\RecordController.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Controllers\\api\\RecordController.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\RecordController.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Controllers\\api\\RecordController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAkwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:05:43.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Program.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:19:51.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\BMI\\Index.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\BMI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\BMI\\Index.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\BMI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T06:14:51.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "Libs\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Data\\IRepository.cs",
+              "RelativeToolTip": "Libs\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:37:03.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BMI.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Entity\\BMI.cs",
+              "RelativeDocumentMoniker": "Libs\\Entity\\BMI.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Entity\\BMI.cs",
+              "RelativeToolTip": "Libs\\Entity\\BMI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:19:41.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Libs\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Libs\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:09:47.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Controllers\\api\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\api\\AuthenticateController.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Controllers\\api\\AuthenticateController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwCUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:24:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Repository\\HealthRecordRepository.cs",
+              "RelativeDocumentMoniker": "Libs\\Repository\\HealthRecordRepository.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Repository\\HealthRecordRepository.cs",
+              "RelativeToolTip": "Libs\\Repository\\HealthRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:39:00.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Libs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Libs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:30:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BMIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Repository\\BMIRepository.cs",
+              "RelativeDocumentMoniker": "Libs\\Repository\\BMIRepository.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Repository\\BMIRepository.cs",
+              "RelativeToolTip": "Libs\\Repository\\BMIRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:45:57.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\appsettings.json",
+              "RelativeToolTip": "21dthc1DemoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T08:34:32.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:32:17.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:36:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:44:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HealthRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Entity\\HealthRecord.cs",
+              "RelativeDocumentMoniker": "Libs\\Entity\\HealthRecord.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Entity\\HealthRecord.cs",
+              "RelativeToolTip": "Libs\\Entity\\HealthRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:08:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Data\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Libs\\Data\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Data\\RepositoryBase.cs",
+              "RelativeToolTip": "Libs\\Data\\RepositoryBase.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:30:54.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:33:06.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InsertRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\InsertRecordModel.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Models\\InsertRecordModel.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\InsertRecordModel.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Models\\InsertRecordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:01:41.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:39:55.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\UpdateRecordModel.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Models\\UpdateRecordModel.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\UpdateRecordModel.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Models\\UpdateRecordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:19:40.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:52:31.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateBMIModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\UpdateBMIModel.cs",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Models\\UpdateBMIModel.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Models\\UpdateBMIModel.cs",
+              "RelativeToolTip": "21dthc1DemoAPI\\Models\\UpdateBMIModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:13:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241220062147_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\20241220062147_InitDB.cs",
+              "RelativeDocumentMoniker": "Libs\\Migrations\\20241220062147_InitDB.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\20241220062147_InitDB.cs",
+              "RelativeToolTip": "Libs\\Migrations\\20241220062147_InitDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:21:47.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250104134011_ctt.cs",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\20250104134011_ctt.cs",
+              "RelativeDocumentMoniker": "Libs\\Migrations\\20250104134011_ctt.cs",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\Libs\\Migrations\\20250104134011_ctt.cs",
+              "RelativeToolTip": "Libs\\Migrations\\20250104134011_ctt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:40:11.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:37:41.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:32:17.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "21dthc1DemoAPI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T08:40:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "21dthc1DemoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T09:08:57.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\appsettings.Development.json",
+              "RelativeToolTip": "21dthc1DemoAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T09:05:41.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\libman.json",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\libman.json",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\libman.json",
+              "RelativeToolTip": "21dthc1DemoAPI\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T08:33:06.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "21dthc1DemoAPI\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\sosfe\\Downloads\\21dthc1DemoAPI - Copy\\21dthc1DemoAPI\\21dthc1DemoAPI\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "21dthc1DemoAPI\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-20T08:41:11.366Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

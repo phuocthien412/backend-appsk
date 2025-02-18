@@ -1,0 +1,202 @@
+[
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.AuthenticateController",
+    "Method": "Login",
+    "RelativePath": "api/Authenticate/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "_21dthc1DemoAPI.Models.RegistrationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.AuthenticateController",
+    "Method": "Registeration",
+    "RelativePath": "api/Authenticate/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "_21dthc1DemoAPI.Models.RegistrationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.BMIController",
+    "Method": "ClassifyBMI",
+    "RelativePath": "api/BMI",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weight",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "height",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.ValueTuple\u00602[[System.Double, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.BMIController",
+    "Method": "DeleteBMI",
+    "RelativePath": "api/BMI/delete-bmi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.BMIController",
+    "Method": "GetAllBMIs",
+    "RelativePath": "api/BMI/get-all-bmi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.BMIController",
+    "Method": "GetBMIById",
+    "RelativePath": "api/BMI/get-bmi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.BMIController",
+    "Method": "InsertBMI",
+    "RelativePath": "api/BMI/insert-bmi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bmiModel",
+        "Type": "_21dthc1DemoAPI.Models.InsertBMIModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.BMIController",
+    "Method": "UpdateBMI",
+    "RelativePath": "api/BMI/update-bmi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "bmiModel",
+        "Type": "_21dthc1DemoAPI.Models.UpdateBMIModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.RecordController",
+    "Method": "GetBMIsByRecordId",
+    "RelativePath": "api/Record/{recordId}/bmis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recordId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.RecordController",
+    "Method": "GetAllHealthRecords",
+    "RelativePath": "api/Record/get-all-HealthRecord",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.RecordController",
+    "Method": "GetHealthRecordById",
+    "RelativePath": "api/Record/get-healthrecord/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_21dthc1DemoAPI.Controllers.api.RecordController",
+    "Method": "InsertHealthRecord",
+    "RelativePath": "api/Record/insert-healthrecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "healthRecord",
+        "Type": "_21dthc1DemoAPI.Models.InsertRecordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

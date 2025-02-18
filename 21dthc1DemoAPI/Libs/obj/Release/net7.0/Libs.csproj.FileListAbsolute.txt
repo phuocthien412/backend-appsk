@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\bin\Release\net7.0\Libs.deps.json
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\bin\Release\net7.0\Libs.runtimeconfig.json
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\bin\Release\net7.0\Libs.dll
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\bin\Release\net7.0\Libs.pdb
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.dll
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\refint\Libs.dll
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.pdb
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\Libs.genruntimeconfig.cache
+C:\Users\Admin\source\repos\21dthc1DemoAPI\Libs\obj\Release\net7.0\ref\Libs.dll

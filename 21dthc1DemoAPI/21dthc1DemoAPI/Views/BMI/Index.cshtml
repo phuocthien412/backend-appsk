@@ -1,0 +1,33 @@
+﻿@model Libs.Entity.BMI
+
+@{
+    ViewData["Title"] = "Add BMI";
+}
+
+<h1>Add New BMI</h1>
+
+<form asp-action="AddBMI" method="post">
+    <div class="form-group">
+        <label asp-for="Weight"></label>
+        <input asp-for="Weight" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Weight" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Height"></label>
+        <input asp-for="Height" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Height" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="HealthRecordId"></label>
+        <input asp-for="HealthRecordId" class="form-control" type="text" />
+        <span asp-validation-for="HealthRecordId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add BMI</button>
+</form>
+
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+}
